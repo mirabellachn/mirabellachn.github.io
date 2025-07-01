@@ -24,8 +24,7 @@ iOS Developer in Progress | Passionate about building apps that solve real probl
 
 ### 📫 Let’s Connect
 📧 mirabellacn@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/mirabellacn/) *(Add your link here)*  
-
+🔗 [LinkedIn](https://www.linkedin.com/in/mirabellacn/) 
 ---
 
 ### 🛠️ Tools & Technologies
